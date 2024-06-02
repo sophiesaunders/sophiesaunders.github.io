@@ -2,7 +2,8 @@ body {
 	font-family: "Cactus Classical Serif", serif;
   	font-weight: 400;
   	font-style: normal;
-  	background: #caebf2;
+	background: #e9dacf;
+	color: #2d6e6d;
 }
 h1, h2, h3, h4 {
 	font-family: 'Roboto Mono', monospace;
@@ -49,7 +50,12 @@ h1, h2, h3, h4 {
 	grid-template-columns: 50% 50%;
 }
 .links {
-	justify-self: center;
+	justify-self: right;
+	padding-right: 20px;
+}
+.contact {
+	justify-self: left;
+	padding-left: 20px;
 }
 .links-list {
 	list-style: none;
@@ -58,6 +64,12 @@ h1, h2, h3, h4 {
 @media (max-width: 650px) {
 	.links-and-contact {
 		grid-template-columns: 100%;
+	}
+	.links {
+		justify-self: center;
+	}
+	.contact {
+		justify-self: center;
 	}
 }
 .profile-pic {
@@ -99,15 +111,12 @@ h1, h2, h3, h4 {
 	transition: all ease-in-out 0.2s;
 }
 form input, textarea {
-	padding: 5px;
 	width: 240px;
+	font-family: "Cactus Classical Serif", serif;
 }
-form input[type="submit"] {
-	width: 250px;
-	border-radius: 5px;
-}
-.submit-button {
-	margin: 20px 0;
+button {
+	width: 245px;
+	font-family: "Cactus Classical Serif", serif;
 }
 hr {
 	border: 0;

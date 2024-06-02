@@ -79,19 +79,19 @@
 					</ul>
 				</div>
 
-				<div>
-					<form action="#">
-						<label for="email">
-							<h3>Email</h3>
-							<input id="email" placeholder="Enter your email."/>
+				<div class="contact">
+					<form action="https://formspree.io/f/myyrqjew" method="POST">
+						<label>
+					    	<h3>Email</h3>
+					    	<input id="email" name="email" autocomplete="email" placeholder="Enter your email."/>
 						</label>
-						<label for="message">
-							<h3>Message</h3>
-							<textarea id="message"></textarea>
-						</label>
-						<div class="submit-button">
-							<input type="submit" value="Send Message"/>
-						</div>
+						<label>
+					    	<h3>Message</h3>
+					    	<textarea id="message" name="message" placeholder="Enter your message."></textarea>
+					  	</label>
+					  	<div>
+					    	<button id="input-button"><strong>Send Message</strong></button>
+					  	</div>
 					</form>
 				</div>
 			</div>
