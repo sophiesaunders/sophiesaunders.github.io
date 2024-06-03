@@ -12,5 +12,4 @@ A lot of the source code here is a result of taking the class at https://careerf
 
 ## To Do
 - Add next two projects (college projects, or something new)
-- Add my resume in "links" as PDF for download
 - Consider adding more pages (i.e. one per project)
