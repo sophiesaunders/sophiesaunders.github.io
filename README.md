@@ -13,5 +13,4 @@ A lot of the source code here is a result of taking the class at https://careerf
 ## To Do
 - Add next two projects (college projects, or something new)
 - Add my resume in "links" as PDF for download
-- Create a unique favicon and add it to the site
 - Consider adding more pages (i.e. one per project)
