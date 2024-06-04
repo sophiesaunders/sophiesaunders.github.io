@@ -55,6 +55,11 @@ hr {
 .project-header {
 	text-align: center;
 }
+#projects-description {
+	text-align: center;
+	font-family: "Roboto Mono", monospace;
+  	font-weight: 200;
+}
 .project-grid {
 	display: grid;
 	grid-template-columns: 50% 50%;
