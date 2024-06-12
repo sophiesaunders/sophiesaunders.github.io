@@ -11,5 +11,5 @@ A lot of the source code here is a result of taking the class at https://careerf
 - This is certainly still a work in progress. Keep coming back to see more updates!
 
 ## To Do
-- Add next two projects (college projects, or something new)
-- Consider adding more pages (i.e. one per project)
+- Add another project image and description.
+- Consider adding more pages (i.e. one per project).
